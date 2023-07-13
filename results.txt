@@ -1,0 +1,10 @@
+Search query: lorem
+
+File: document1.txt, Hits: 12
+File: document2.txt, Hits: 3
+Search query: lorym
+
+lorym doesn't existSearch query: lorem
+
+File: document1.txt, Hits: 12
+File: document2.txt, Hits: 3
